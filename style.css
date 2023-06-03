@@ -1,0 +1,9 @@
+.jamp{
+    animation: jump 1s linear;
+
+}
+@keyframes jump{
+    0%{top:10px;}
+    50%{top:20px;}
+    100%{top:0px;}
+}
